@@ -10,3 +10,7 @@ function like() {
 
 
 }
+
+document.getElementById('blue-color').addEventListener('click',function(){
+    document.body.style.backgroundColor='blue';
+})
