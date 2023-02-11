@@ -23,5 +23,4 @@ document.getElementById('post-btn').addEventListener('click', function(){
     p.innerText = commentValue;
     cmntbox.appendChild(p);
     comment.value = '';
-
 })
